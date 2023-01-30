@@ -1,3 +1,2 @@
 Hello, welcome to GIT
 Modification 1
-Modification 2
