@@ -27,6 +27,10 @@ DerivedData/
 
 ## App packaging
 *.ipa
+
+*.jar
+*.class
+
 *.dSYM.zip
 *.dSYM
 
