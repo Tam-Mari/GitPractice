@@ -3,4 +3,4 @@ Modification 1
 This line is for buggy1
 This line is for MASTER
 This line is for buggy2
-
+This is for MASTER
